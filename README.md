@@ -1,3 +1,4 @@
+A hands-on learning resource for agentic AI using LangChain, LangGraph, Pydantic, and RAG systems.
 
 # Agentic AI Learning
 
