@@ -1,5 +1,3 @@
-A hands-on learning resource for agentic AI using LangChain, LangGraph, Pydantic, and RAG systems.
-
 # Agentic AI Learning
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/sdburde/agentic-ai-learning)
